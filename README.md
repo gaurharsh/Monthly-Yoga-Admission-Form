@@ -132,5 +132,6 @@ Here are some related projects
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1-7B258iDQeho_zwb5pQbVvILuAxSMnQE/view?usp=drive_link)
+[![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)](https://drive.google.com/file/d/1-7B258iDQeho_zwb5pQbVvILuAxSMnQE/view?usp=drive_link)
+
 
