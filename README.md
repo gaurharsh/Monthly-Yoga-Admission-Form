@@ -38,7 +38,7 @@ The Monthly Yoga Admission Form is a testament to modern technologies' utilizati
 ## Acknowledgements
 
  - [Monthly Yoga Admission Form](https://gaurharsh5590.pythonanywhere.com/)
- - [Admin Page](https://github.com/matiassingers/awesome-readme)
+ - [Admin Page]([https://github.com/matiassingers/awesome-readme](https://gaurharsh5590.pythonanywhere.com/admin/))
  
 
 
