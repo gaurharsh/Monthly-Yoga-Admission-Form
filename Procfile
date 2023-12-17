@@ -1,0 +1,1 @@
+web: gunicorn yoga_class_admission.wsgi 
