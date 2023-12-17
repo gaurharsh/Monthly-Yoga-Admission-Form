@@ -129,3 +129,8 @@ Here are some related projects
 ## 🛠 Skills
    Python,Django,SQL database,Bootstrap,
 
+
+## Screenshots
+
+![App Screenshot](https://drive.google.com/file/d/1-7B258iDQeho_zwb5pQbVvILuAxSMnQE/view?usp=drive_link)
+
