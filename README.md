@@ -1,25 +1,26 @@
+
 # Monthly-Yoga-Admission-Form
 
 The "Monthly Yoga Admission Form" is a comprehensive web application designed to facilitate the enrollment process for monthly yoga classes. Developed using a combination of cutting-edge technologies, including Bootstrap for the frontend, Django for the backend, and SQL for the database, this project offers a seamless and user-friendly experience for individuals interested in joining yoga classes on a monthly basis.
 
 Key Features:
 
-Bootstrap-Powered Frontend: The application's front end leverages the Bootstrap framework to deliver a responsive, visually appealing, and intuitive user interface. Employing Bootstrap's components and styles ensures a consistent and mobile-friendly experience for users accessing the admission form across various devices.
+Bootstrap-Powered Frontend: The frontend of the application leverages the Bootstrap framework to deliver a responsive, visually appealing, and intuitive user interface. Employing Bootstrap's components and styles ensures a consistent and mobile-friendly experience for users accessing the admission form across various devices.
 
 Django Backend: The backend is built using Django, a high-level Python web framework, known for its robustness and efficiency. Django handles the core functionalities of the application, including user authentication, form submissions, data processing, and interactions with the database.
 
 SQL Database Integration: The application uses SQL as the database management system, allowing efficient storage, retrieval, and management of user information, such as enrollment details, selected batches, and payment records. SQL provides a structured and organized approach to store and manage data securely.
 
-Enrollment Process: Users within the age limit of 18-65 can enroll for the yoga classes via the admission form. They have the flexibility to choose from four batches per day: 6-7 AM, 7-8 AM, 8-9 AM, and 5-6 PM. Participants can select a batch for a particular month and switch to another batch in the following months.
+Enrollment Process: Users within the age limit of 18-65 can enroll for the yoga classes via the admission form. They have the flexibility to choose from four batches per day: 6-7AM, 7-8AM, 8-9AM, and 5-6PM. Participants can select a batch for a particular month and switch to another batch in the following months.
 
-Monthly Payment: Enrolled individuals are required to pay a monthly fee of 500/- Rs INR. The payment system allows users to pay any time during the month for the entire month's fee.
+Monthly Payment: Enrolled individuals are required to pay the monthly fee of 500/- Rs INR. The payment system allows users to make payments at any time during the month for the entire month's fee.
 
 Technologies Used:
 
 Frontend: Bootstrap for responsive and user-friendly UI/UX.
 Backend: Django framework for efficient server-side logic and API endpoints.
 Database: SQL for robust and structured data storage and retrieval.
-The Monthly Yoga Admission Form is a testament to modern technologies' utilization to create an accessible, secure, and streamlined enrollment process for yoga enthusiasts, ensuring a delightful user experience from start to finish.
+The Monthly Yoga Admission Form stands as a testament to the utilization of modern technologies to create an accessible, secure, and streamlined enrollment process for yoga enthusiasts, ensuring a delightful user experience from start to finish.
 
 
 ## Features
@@ -38,7 +39,7 @@ The Monthly Yoga Admission Form is a testament to modern technologies' utilizati
 ## Acknowledgements
 
  - [Monthly Yoga Admission Form](https://gaurharsh5590.pythonanywhere.com/)
- - [Admin Page]([https://github.com/matiassingers/awesome-readme](https://gaurharsh5590.pythonanywhere.com/admin/))
+ - [Admin Page](https://gaurharsh5590.pythonanywhere.com/admin/)
  
 
 
@@ -127,5 +128,4 @@ Here are some related projects
 
 ## 🛠 Skills
    Python,Django,SQL database,Bootstrap,
-
 
