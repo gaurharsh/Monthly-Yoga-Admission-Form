@@ -13,9 +13,9 @@
 
 💭 Ask me about Azure and AWS.
 
-👯 I'm looking to collaborate on Open Projects.
+👯 I'm looking to collaborate on Open Source Projects.
 
-🌱Knowledge of OS, DBMS, CN AND OOPS.
+🌱Knowledge of OS, DBMS, CN, AND OOPS.
 
 💥Fun fact
 
